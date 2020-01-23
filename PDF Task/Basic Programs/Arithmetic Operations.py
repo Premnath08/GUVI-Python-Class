@@ -1,0 +1,7 @@
+a=int(input())
+b=int(input())
+print("Sum:",a+b)
+print("Difference:",a-b)
+print("Product:",a*b)
+print("Division:",a/b)
+print("Modulo:",a%b)

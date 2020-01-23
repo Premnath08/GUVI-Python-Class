@@ -1,0 +1,6 @@
+n=input()
+a=float(input())
+b=int(input())
+print("String:",n)
+print("Float:",a)
+print("Integer:",b)
